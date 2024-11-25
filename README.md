@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S2377&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="S2377" /> </p>
 
-- I’m currently working on [AI Rozgar](https://github.com/nag2mani/airozgar)
+- I’m currently working on [CareerHorizon](https://github.com/surajPrajapati-rgb/CareerHorizon.git)
 
-- How to reach me **nag2mani@gmail.com**
+- How to reach me **shivam2377kumar@gmail.com**
 
-- Want to connect with me [Linkedin](https://linkedin.com/in/nag2mani)
+- Want to connect with me [Linkedin](https://www.linkedin.com/in/shivam-kumar-7875a7253)
 
 - ⚡ Fun fact **In coding, a bug was named after a literal insect found in early computers.**
 
