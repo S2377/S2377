@@ -8,7 +8,7 @@
 
 - How to reach me **shivam2377kumar@gmail.com**
 
-- Want to connect with me [Linkedin](https://www.linkedin.com/in/shivam-kumar-7875a7253)
+- Want to connect with me [Linkedin](https://www.linkedin.com/in/shivam-kumar)
 
 - ⚡ Fun fact **In coding, a bug was named after a literal insect found in early computers.**
 
